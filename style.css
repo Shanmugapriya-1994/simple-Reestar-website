@@ -1,0 +1,68 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+}
+.nav 
+{
+    padding: 10px;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+img{
+    width: 200px;
+    height: 230px;
+}
+.container{
+     padding: 20px;
+     text-align: center;
+}
+.section-one, .section-two, .section-three, .section-four {
+    width: 200px;
+    vertical-align: top;  
+    display: inline-block;
+      border: solid black 1px;
+}
+.section-one__desc, .section-two__desc, .section-three__desc, .section-four__desc
+{
+      font-size: 14px;
+      padding: 10px;
+}
+.section-one__button, .section-two__button, .section-three__button, .section-four__button{
+    padding: 10px;
+     background-color: black;
+     color:  white;
+     text-align: center;
+     border: solid black 1px;
+     margin-bottom: 5px;
+}
+table{
+    display: inline-block;
+}
+.contact-form
+{
+background-color: black;
+color: white;
+text-align: center;
+padding: 20px;
+}
+. contact-form__name, .contact-form__age, .contact-form__mail{
+ text-align: center;
+ margin-left: 50px;
+ padding-left: 50px;
+
+}
+.contact-form__button{
+    display:inline;
+    background-color: yellow;
+    color: black;
+    width: 350px;
+    padding: 5px;
+    text-align: center;
+}

@@ -18,7 +18,7 @@ Reestar is a simple and modern website created using HTML and basic CSS. It serv
 
 ## Getting Started
 
-To view the Reestar website, clone this repository and open the `index.html` file in your browser.
+To view the Reestar website, clone this repository and open the `https://shanmugapriya-1994.github.io/simple-Reestar-website/` file in your browser.
 
 
 
